@@ -1,6 +1,6 @@
 # Java Spring Boot Todo List Application
 
-This is a simple Todo List REST API built with Java Spring Boot. The project was created as a learning exercise to understand how a backend application connects the controller, service, repository, model, and MySQL database together.
+This is a simple Todo List REST API built with Java Spring Boot. The project was created as a assessment to understand how a backend application connects the controller, service, repository, model, and MySQL database together.
 
 The application allows users to create, read, update, delete, and filter tasks. The API was also tested using JUnit and MockMvc, and the test result report is included in this repository.
 
